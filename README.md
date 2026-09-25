@@ -44,19 +44,19 @@ Below is a breakdown of top commercial Food Safety Management SaaS platforms, so
 
 ## 🔓 Open-Source GitHub Projects
 
-Open-source alternatives, self-hosted checklist tools, IoT logging engines, and public recall analytics tools, sorted by **GitHub Star Count (descending)**:
+Open-source alternatives, self-hosted checklist tools, IoT logging engines, and public recall analytics tools, sorted by **GitHub Stars_Count (descending)**:
 
-* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
   Fair-code workflow automation node engine used for integrating food temperature sensors, audit alert dispatching, and automated HACCP task escalation.
-* **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+* **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
   Low-code framework popular for building custom internal HACCP dashboards, inspection forms, and lot traceability trackers.
-* **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+* **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
   Open-source low-code tool used by food manufacturers to connect local databases to digital hygiene, temperature, and quality logs.
-* **[Form.io](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
+* **[Form.io](https://github.com/formio/formio)** [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)  
   Combined form builder and API engine used for building offline-first mobile food safety checklists and audit templates.
-* **[FarmOS](https://github.com/farmOS/farmOS)** [![GitHub stars](https://img.shields.io/github/stars/farmOS/farmOS?style=social&color=white)](https://github.com/farmOS/farmOS/stargazers)  
+* **[FarmOS](https://github.com/farmOS/farmOS)** [![GitHub_Stars](https://img.shields.io/github/stars/farmOS/farmOS?style=social&color=white)](https://github.com/farmOS/farmOS/stargazers)  
   Web-based farm management application used for agricultural food safety compliance, field logs, harvest tracking, and GAP audit evidence.
-* **[Haccp Trace & Local Tools](https://github.com/alessandrostella/haccp)** [![GitHub stars](https://img.shields.io/github/stars/alessandrostella/haccp?style=social&color=white)](https://github.com/alessandrostella/haccp/stargazers)  
+* **[Haccp Trace & Local Tools](https://github.com/alessandrostella/haccp)** [![GitHub_Stars](https://img.shields.io/github/stars/alessandrostella/haccp?style=social&color=white)](https://github.com/alessandrostella/haccp/stargazers)  
   Self-hosted local HACCP digital documentation and lot-tracking utility designed for small food processing facilities.
 
 ---
